@@ -1,0 +1,52 @@
+@media (min-width: 500px) {
+	.container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl{
+		max-width: 70%;
+		background-color: rgb(175, 175, 175);
+	}
+	.size1{
+		height: 255px;
+	}
+}
+
+.f1{
+	height: auto;
+}
+
+.f2{
+	height: 50px;
+}
+
+.foto{
+	max-width: 150px;
+	max-height: 150px;
+}
+
+.c1{
+	background-color:#333333;
+	color: white;
+}
+
+.c2{
+	background-color:#00798b;
+	color: white;
+}
+
+.c3{
+	background-color:rgb(243, 243, 243);
+	color:black;
+}
+
+.c4{
+	background-color:rgb(230, 230, 230);
+	color:black;
+	margin-top: 0px;
+}
+
+.icon{
+	max-height: 50px;
+	margin-top: 20px;
+}
+
+.textIcon{
+	margin-bottom: 10px;
+}
