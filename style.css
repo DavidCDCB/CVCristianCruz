@@ -2,9 +2,13 @@
 	.container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl{
 		max-width: 70%;
 		background-color: rgb(175, 175, 175);
+		box-shadow: -1px 1px 37px 9px rgba(0,0,0,0.75);
 	}
 	.size1{
 		height: 255px;
+	}
+	.f1{
+		height: 172px !important;
 	}
 }
 
@@ -14,11 +18,6 @@
 
 .f2{
 	height: 50px;
-}
-
-.foto{
-	max-width: 150px;
-	max-height: 150px;
 }
 
 .c1{
